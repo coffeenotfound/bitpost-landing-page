@@ -1,0 +1,6 @@
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://bitpost.co/"
+
+includes_dir: /
+
+markdown: kramdown
